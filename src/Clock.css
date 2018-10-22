@@ -1,0 +1,9 @@
+.clock {
+  color: red;
+  background: yellow;
+  text-align: center;
+
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
